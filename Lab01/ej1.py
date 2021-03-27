@@ -1,0 +1,11 @@
+x = int(input("Ingrasa la variable x: "))
+y = int(input("Ingrasa la variable y: "))
+z = int(input("Ingrasa la variable z: "))
+
+print()
+print("punto a)")
+print(f"x/y+z = {x/y+z}")
+print(f"x/(y+z) = {x/(y+z)}")
+print("\npunto b)")
+print(f"x/y*z = {x/y*z}")
+print(f"x/(y*z) = {x/(y*z)}")
