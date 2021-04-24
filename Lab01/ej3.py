@@ -7,4 +7,4 @@ print(f"El mayor punto flotante (antes de que se produzca el overflow) es: {max}
 min = 1.0
 while not(min/2 == 0):
     min = min/2
-print(f"El mayor punto flotante (antes de que se produzca el underflow) es: {min}")
+print(f"El menor punto flotante (antes de que se produzca el underflow) es: {min}")
