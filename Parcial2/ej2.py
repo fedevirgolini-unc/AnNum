@@ -1,7 +1,7 @@
 import numpy as np
 from Alg_solLU import sollu
 
-g = 9.
+g = 9.8
 
 k = 10
 
