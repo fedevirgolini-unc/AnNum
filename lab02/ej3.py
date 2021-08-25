@@ -1,6 +1,6 @@
 def rnewton(fun, x0, err, mit):
     """
-    Implementa ennmétodo de Newton para hallar una raíz de una función f partiendo de un punto inicial x0
+    Implementa el método de Newton para hallar una raíz de una función f partiendo de un punto inicial x0
     Entradas:
         -fun: es una función que dedo x retorna f(x) y f'(x)
         -x0: es un punto inicial en R

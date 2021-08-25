@@ -5,7 +5,7 @@ def ripf(fun, x0, err, mit):
         -fun: es una función que dado x retorna f(x)
         -x0: es un punto en R
         -err: es la tolerancia deseada del error
-        -mit: es el número máximo de rtoraciones
+        -mit: es el número máximo de iteraciones
     Salida:
         -hx: lista de histórico de puntos generados
     """
